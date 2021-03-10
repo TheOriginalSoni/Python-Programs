@@ -29,6 +29,7 @@ for x in english_vocab2:
 
 print(len(caesarable))
 
+#This list above is words that caesar into other words in english.
 
 piggable = []
 for x in english_vocab2:
@@ -37,6 +38,7 @@ for x in english_vocab2:
 
 print(len(piggable))
 
+#This list above is words that end in -ay as they might be Pig-Latin form of other words
 
 list2 = sorted(caesarable, key = lambda x: len(x[1]), reverse = True)
 
