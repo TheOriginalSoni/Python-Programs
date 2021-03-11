@@ -1,3 +1,5 @@
+#This program will help you go through all the words possible in the English language, then apply simple functions on them to extract some of those words. The functions in this one are "Words that end in ay" and "Words that Caesar shift into other words"
+
 #Note - Either use the NLTK library below (okay-ish), or download the Enable Word list library from https://www.wordgamedictionary.com/enable/ to work with it
 
 #from nltk.corpus import brown
